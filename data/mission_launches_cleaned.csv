@@ -1,4 +1,4 @@
-Organisation,Location,Date,Detail,Rocket_Status,Price,Mission_Status
+Organisation,Location,Date,Detail,Rocket_Status,Price in Millions,Mission_Status
 SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 07, 2020 05:12 UTC",Falcon 9 Block 5 | Starlink V1 L9 & BlackSky,Active,50.0,Success
 CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Thu Aug 06, 2020 04:01 UTC",Long March 2D | Gaofen-9 04 & Q-SAT,Active,29.75,Success
 SpaceX,"Pad A, Boca Chica, Texas, USA","Tue Aug 04, 2020 23:57 UTC",Starship Prototype | 150 Meter Hop,Active,,Success
