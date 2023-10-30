@@ -42,7 +42,7 @@ Presented below as NASA's budget requests and authorized allocations for space m
 
 This discrepancy between the requested budget and the authorized budget highlights a recurring trend in NASA's financial planning for space missions. While NASA aspired to secure higher funding, the approved budgets often reflect a pattern of maintaining financial stability. This equilibrium in authorized allocations underscores the need for efficient resource management and the challenges in realizing significant budget increments for ambitious space endeavors.
 
-![NASA approved Budget from 2018 to 2020]("C:\Users\photo\Desktop\Ironhack\projects\project_II_space_mission_launches\images\nasa_budget_yearly.png")
+![image](https://github.com/Estherkii/project_II_space_mission_launches/assets/123992666/2c9340fb-47e6-4b84-9125-a17162839e73)
 
 # 4. What was NASA's average success rate for space missions in 2022, and how did it align with their budget expenditures in achieving mission success?
 
