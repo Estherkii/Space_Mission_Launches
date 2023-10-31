@@ -54,7 +54,7 @@ Furthermore, the 0.5% partial failure rate reflects NASA's ability to address an
 
 This graphic underscores NASA's dedication to achieving mission success while maintaining transparency about the occasional setbacks and partial failures encountered during the year 2022.
 
-![NASA success in 2022]("C:\Users\photo\Desktop\Ironhack\projects\project_II_space_mission_launches\images\nasa_launch_average.png")
+![image](https://github.com/Estherkii/project_II_space_mission_launches/assets/123992666/2bca5140-8339-4e3a-b3ef-55750de94411)
 
 # In conclusion
 
