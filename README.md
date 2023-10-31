@@ -28,13 +28,13 @@ This code was written in Python/Jupyter Notebook, using the following libraries:
 
 This graphic tracks space launches worlwide from 1958 to 2020, revealing distinct periods: a surge in launches between 1960 and 1978, followed by consistent activity. After 2010, launches increased, while launch failures remained minimal, demonstrating a remarkable history of space exploration.
 
-![Mission Status per Year]("C:\Users\photo\Desktop\Ironhack\projects\project_II_space_mission_launches\images\plt_mission_status.png".jpg")
+![image](https://github.com/Estherkii/project_II_space_mission_launches/assets/123992666/605ca7c4-aa20-4986-9576-33b1c2626252)
 
 # 2. What was the cumulative expenditure of space agencies worldwide on space missions from 1958 to 2020?
 
 As seeen in the figure below, the cumulative expenditures of the top 10 space agencies worldwide on space missions from 1958 to 2020. NASA stands as the unrivaled leader, significantly outpacing all other agencies in terms of financial commitment to space exploration. The prominent gap between NASA and the remaining agencies underscores its exceptional investment and contribution to space missions. This financial dominance reaffirms NASA's prominent role in shaping the global landscape of space exploration throughout the decades.
 
-![Total spending in Billions]("C:\Users\photo\Desktop\Ironhack\projects\project_II_space_mission_launches\images\total_spending.png")
+![image](https://github.com/Estherkii/project_II_space_mission_launches/assets/123992666/0e1ec491-c108-4113-97ff-cdbd8a5b638c)
 
 # 3. What was NASA's total budget allocation from 2018 to 2022?
 
@@ -42,7 +42,7 @@ Presented below as NASA's budget requests and authorized allocations for space m
 
 This discrepancy between the requested budget and the authorized budget highlights a recurring trend in NASA's financial planning for space missions. While NASA aspired to secure higher funding, the approved budgets often reflect a pattern of maintaining financial stability. This equilibrium in authorized allocations underscores the need for efficient resource management and the challenges in realizing significant budget increments for ambitious space endeavors.
 
-![image](https://github.com/Estherkii/project_II_space_mission_launches/assets/123992666/2c9340fb-47e6-4b84-9125-a17162839e73)
+![image](https://github.com/Estherkii/project_II_space_mission_launches/assets/123992666/5067cfc3-4e2c-4d77-8285-8b522eb12254)
 
 # 4. What was NASA's average success rate for space missions in 2022, and how did it align with their budget expenditures in achieving mission success?
 
