@@ -65,3 +65,5 @@ This graphic underscores NASA's dedication to achieving mission success while ma
 * NASA aspiration for higher funding often met the reality of maintaining financial stability. This equilibrium emphasizes the need for resource efficiency in space missions and the challenges inherent in securing substantial budget increases for ambitious endeavors. NASA's ability to adapt within these financial constraints speaks to its resilient dedication to space exploration.
 
 * In 2022, NASA achieved a remarkable 95.7% success rate, a testament to their proficiency in executing missions. Their transparent acknowledgment of a 3.8% failure rate reflects their commitment to learning from challenges. Additionally, the 0.5% partial failure rate showcases their ability to salvage mission objectives, even when faced with setbacks. This graphic underscores NASA's dedication to mission success and their resilience in addressing mission challenges.
+  
+CANVA PRESENTATION: https://www.canva.com/design/DAFyp6rAmyg/41r3gzeotQaXBswb5ZuY3g/edit?utm_content=DAFyp6rAmyg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
