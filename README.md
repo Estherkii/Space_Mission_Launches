@@ -24,19 +24,19 @@ This code was written in Python/Jupyter Notebook, using the following libraries:
 3. What was NASA's total budget allocation from 2018 to 2022?
 4. What was NASA's average success rate for space missions in 2022, and how did it align with their budget expenditures in achieving mission success?
 
-# 1. How many space mission launches achieved their primary objectives and can be classified as successful from 1958 to 2020?
+## 1. How many space mission launches achieved their primary objectives and can be classified as successful from 1958 to 2020?
 
 This graphic tracks space launches worlwide from 1958 to 2020, revealing distinct periods: a surge in launches between 1960 and 1978, followed by consistent activity. After 2010, launches increased, while launch failures remained minimal, demonstrating a remarkable history of space exploration.
 
 ![image](https://github.com/Estherkii/project_II_space_mission_launches/assets/123992666/605ca7c4-aa20-4986-9576-33b1c2626252)
 
-# 2. What was the cumulative expenditure of space agencies worldwide on space missions from 1958 to 2020?
+## 2. What was the cumulative expenditure of space agencies worldwide on space missions from 1958 to 2020?
 
 As seeen in the figure below, the cumulative expenditures of the top 10 space agencies worldwide on space missions from 1958 to 2020. NASA stands as the unrivaled leader, significantly outpacing all other agencies in terms of financial commitment to space exploration. The prominent gap between NASA and the remaining agencies underscores its exceptional investment and contribution to space missions. This financial dominance reaffirms NASA's prominent role in shaping the global landscape of space exploration throughout the decades.
 
 ![image](https://github.com/Estherkii/project_II_space_mission_launches/assets/123992666/0e1ec491-c108-4113-97ff-cdbd8a5b638c)
 
-# 3. What was NASA's total budget allocation from 2018 to 2022?
+## 3. What was NASA's total budget allocation from 2018 to 2022?
 
 Presented below as NASA's budget requests and authorized allocations for space missions from 2018 to 2022. Notably, NASA submitted budget requests that indicated a significant increment from 2019 to 2021. However, despite these budget increase proposals, the authorized budget remained relatively consistent throughout these years.
 
@@ -44,7 +44,7 @@ This discrepancy between the requested budget and the authorized budget highligh
 
 ![image](https://github.com/Estherkii/project_II_space_mission_launches/assets/123992666/5067cfc3-4e2c-4d77-8285-8b522eb12254)
 
-# 4. What was NASA's average success rate for space missions in 2022, and how did it align with their budget expenditures in achieving mission success?
+## 4. What was NASA's average success rate for space missions in 2022, and how did it align with their budget expenditures in achieving mission success?
 
 The data visualization below outlines provides an overview of NASA's mission success rates in 2022, offering insights into the outcomes of their space endeavors. Notably, NASA achieved a remarkable 95.7% success rate, signifying the proficient execution of their missions, as the overwhelming majority reached their intended objectives.
 
