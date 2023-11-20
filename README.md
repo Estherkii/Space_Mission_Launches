@@ -17,7 +17,7 @@ This code was written in Python/Jupyter Notebook, using the following libraries:
 - bs4 BeautifulSoup
 - Requests
 
-# Hypotheses:
+# Hypothesis
 
 1. How many space mission launches achieved their primary objectives and can be classified as successful from 1958 to 2020?
 2. What was the cumulative expenditure of space agencies worldwide on space missions from 1958 to 2020?
