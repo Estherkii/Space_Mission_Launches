@@ -66,4 +66,4 @@ This graphic underscores NASA's dedication to achieving mission success while ma
 
 * In 2022, NASA achieved a remarkable 95.7% success rate, a testament to their proficiency in executing missions. Their transparent acknowledgment of a 3.8% failure rate reflects their commitment to learning from challenges. Additionally, the 0.5% partial failure rate showcases their ability to salvage mission objectives, even when faced with setbacks. This graphic underscores NASA's dedication to mission success and their resilience in addressing mission challenges.
   
-CANVA PRESENTATION: https://www.canva.com/design/DAFyp6rAmyg/41r3gzeotQaXBswb5ZuY3g/edit?utm_content=DAFyp6rAmyg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+[This is the link to my CANVA PRESENTATION](https://www.canva.com/design/DAFyp6rAmyg/41r3gzeotQaXBswb5ZuY3g/edit?utm_content=DAFyp6rAmyg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
